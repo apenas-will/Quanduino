@@ -55,10 +55,6 @@ As seguintes modificações foram feitas por Wildisley José de Souza Filho em m
 - Implementação de circuito do algoritmo de Deutsch-Jozsa para problema de Bernstein-Vazirani;
 - Implementação de espaço para adição de novos circuitos personalizados.
 
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
 ## Referências
 
 Caso utilize este projeto em publicações acadêmicas, cite com:
