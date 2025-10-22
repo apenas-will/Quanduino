@@ -70,4 +70,4 @@ Caso utilize este projeto em publicações acadêmicas, cite com:
 
 ---
 
-Que o Quanduino possa levar os expandir os horizontes do ensino da computação quântica!
+Que o Quanduino possa ajudar a expandir os horizontes do ensino da computação quântica!
